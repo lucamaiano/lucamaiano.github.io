@@ -1,4 +1,4 @@
-baseURL = "http://www.lucamaiano.github.io"
+baseURL = "https://lucamaiano.github.io/"
 title = "Luca Maiano | PhD student and Data Scientist"
 theme = "hugo-coder"
 languageCode = "en"
