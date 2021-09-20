@@ -1,0 +1,101 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 854px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 246px;
+  height: 246px;
+  background-image: url("images/MAIANOLUCA-51.JPG");
+  background-position: 50% 50%;
+  margin: 148px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  width: 303px;
+  font-size: 3rem;
+  line-height: 52.8px;
+  font-weight: normal;
+  margin: 64px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  line-height: 2.2;
+  width: 902px;
+  margin: 29px auto 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 47px;
+  min-height: 16px;
+  width: 104px;
+  min-width: 42px;
+  margin: 17px auto 60px;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 794px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 166px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    width: 105px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 697px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 148px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 699px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.125rem;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 546px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}
